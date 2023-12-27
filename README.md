@@ -3,4 +3,4 @@
 [![](https://raw.githubusercontent.com/Haste171/octo-ring-blue/main/octo-bottom.png)](https://octo-ring.com/)
 
 
-**[Join The Project](https://octo-ring.com/)**,
+**[Join The Project](https://octo-ring.com/)**
